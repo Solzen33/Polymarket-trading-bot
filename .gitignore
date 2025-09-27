@@ -1,15 +1,11 @@
-#   env
-.env
 
-*.test.ts
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+**/node_modules
+test-ledger
 
+**/yarn.lock
 
-#   node mudule
-node_modules
-
-#   lock file
-*.lock
-*-lock.json
-
-#   dist
-dist
+**/.next

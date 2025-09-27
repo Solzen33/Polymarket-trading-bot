@@ -7,16 +7,17 @@
     "@project-serum/anchor": "^0.25.0",
     "@solana/spl-token": "^0.3.6",
     "@solana/web3.js": "^1.70.1",
+    "bs58": "^5.0.0",
+    "commander": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "js-sha256": "^0.9.0",
+    "jsbi": "^4",
+    "node-fetch": "^3.3.0",
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
     "@types/bn.js": "^5.1.1",
-    "@types/chai": "^4.3.4",
-    "@types/mocha": "^10.0.1",
-    "chai": "^4.3.7",
-    "mocha": "^10.2.0",
     "prettier": "^2.8.1",
-    "ts-mocha": "^10.0.0",
     "typescript": "^4.9.4"
   }
 }
