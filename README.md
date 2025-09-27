@@ -1,3 +1,5 @@
+# [📞Telegram](https://t.me/froganbee_sol)
+
 # Solana Perpetuals
 
 ## Introduction
