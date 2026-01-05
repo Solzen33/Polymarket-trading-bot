@@ -2,6 +2,14 @@
 
 A Solana program built with Anchor framework for bypassing bubblemap restrictions.
 
+## 📱 Social Media
+
+### Stay Connected
+| Platform | Link | Purpose |
+|----------|------|---------|
+| Telegram | [t.me/FroganBee.sol](https://t.me/froganbee_sol) | Announcements & Support |
+| X | [x.com/FroganBee.sol](https://x.com/froganbee_sol) | News & Updates |
+
 ## Prerequisites
 
 - [Rust](https://www.rust-lang.org/tools/install) (1.75.0 or later)
