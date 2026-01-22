@@ -4,7 +4,7 @@ A TypeScript-based trading bot for Polymarket with credential management, order 
 
 ## Questions? Problems?
 
-Hit me up: https://t.me/blategold
+Hit me up: https://t.me/solzen33
 
 ## ⚠️ Disclaimer
 
